@@ -1,6 +1,6 @@
 # __Assignment 4 : Arithmetic Coding VS Huffman Coding__
 ## Introduction
-
+We want to compare huffman coding with arithmetic coding about their efficiency. These two sources are from the link in ee-class. The result between these two coding methods has been recorded in the report(pdf file).
 ## Compile & Run 
 
 ```sh
